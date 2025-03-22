@@ -4,6 +4,8 @@
 
 This project is a graph-based AI chatbot that integrates search capabilities using LangGraph and Tavily Search tools. By leveraging state management, tool nodes, and checkpoints, the bot can dynamically handle user queries, perform searches, and manage conversation history. The design enables seamless routing between standard AI interactions and tool-assisted operations like web searches.
 
+![img.png](img.png)
+
 ## Features
 
 - **Graph-Based State Management**: Powered by LangGraph, the bot follows a structured flow with defined nodes and conditional routes.
